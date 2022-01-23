@@ -15,6 +15,7 @@ public class Printing_stars {
          System.out.println();
          a++;
         }
+        System.out.println();
     }
     
     //printing stars in half pyramid:
@@ -25,6 +26,7 @@ public class Printing_stars {
         	} 
          	System.out.println();
         }
+        System.out.println();
     }
     
     //printing cristmas tree with stars:
